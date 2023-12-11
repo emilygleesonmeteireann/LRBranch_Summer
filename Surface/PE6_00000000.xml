@@ -1,0 +1,5176 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>6h Precipitation</VAR>
+<UNIT>mm/6h</UNIT>
+<PERIOD>20180601-20180614</PERIOD>
+ <STATION>
+ <MEAN_OBS>  0.223214298     </MEAN_OBS>
+ <STDV_OBS>   1.62815261     </STDV_OBS>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.420872301     </MEAN>
+ <STDV>   6.16505463E-40 </STDV>
+ <BIAS>  0.855444908     </BIAS>
+ <RMSE>  0.929303288     </RMSE>
+ <CORR>   3.26627016E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   7.36802733E-42 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.865348279     </BIAS>
+ <RMSE>  0.935440123     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  -32881120.0     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.899136066     </BIAS>
+ <RMSE>  0.950982094     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.457142889     </MEAN_OBS>
+ <STDV_OBS>   2.20150876     </STDV_OBS>
+ <EXP>
+ <ID>        3023 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.670558572     </MEAN>
+ <STDV>  -31502684.0     </STDV>
+ <BIAS>  0.732691169     </BIAS>
+ <RMSE>  0.926687539     </RMSE>
+ <CORR>   3.27571452E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3023 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.742947102     </BIAS>
+ <RMSE>  0.926482201     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3023 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2930.66846     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.856554925     </BIAS>
+ <RMSE>  0.925830662     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.358928591     </MEAN_OBS>
+ <STDV_OBS>   1.30604875     </STDV_OBS>
+ <EXP>
+ <ID>        3026 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.357129931     </MEAN>
+ <STDV>   3.40934089E+26 </STDV>
+ <BIAS>  0.652124047     </BIAS>
+ <RMSE>  0.957849920     </RMSE>
+ <CORR>  -31502492.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3026 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.589343965     </BIAS>
+ <RMSE>  0.966340899     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3026 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2860.53979     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.560730040     </BIAS>
+ <RMSE>  0.956625342     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.623214364     </MEAN_OBS>
+ <STDV_OBS>   3.74037051     </STDV_OBS>
+ <EXP>
+ <ID>        3031 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.26133919     </MEAN>
+ <STDV>   3.27571452E+26 </STDV>
+ <BIAS>   1.91832900     </BIAS>
+ <RMSE>  0.693172336     </RMSE>
+ <CORR>  -32294286.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3031 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.47227073     </BIAS>
+ <RMSE>  0.617283702     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3031 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2785.37036     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.07716775     </BIAS>
+ <RMSE>  0.581048608     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.450000048     </MEAN_OBS>
+ <STDV_OBS>   1.46000707     </STDV_OBS>
+ <EXP>
+ <ID>        3034 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.453914225     </MEAN>
+ <STDV>  -31502492.0     </STDV>
+ <BIAS>  0.608293355     </BIAS>
+ <RMSE>  0.914666414     </RMSE>
+ <CORR>   3.26625798E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3034 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.706185162     </BIAS>
+ <RMSE>  0.883922398     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3034 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3296.81592     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.889398217     </BIAS>
+ <RMSE>  0.816134393     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.392857164     </MEAN_OBS>
+ <STDV_OBS>   1.16257071     </STDV_OBS>
+ <EXP>
+ <ID>        3044 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.498569340     </MEAN>
+ <STDV>   3.26626979E+26 </STDV>
+ <BIAS>   1.29946971     </BIAS>
+ <RMSE>  0.575923860     </RMSE>
+ <CORR>  -31560764.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3044 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.08013260     </BIAS>
+ <RMSE>  0.657973468     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3044 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   11.8629265     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.673354328     </BIAS>
+ <RMSE>  0.839216411     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.35714281     </MEAN_OBS>
+ <STDV_OBS>   2.44487739     </STDV_OBS>
+ <EXP>
+ <ID>        3047 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.07395744     </MEAN>
+ <STDV>  -32809890.0     </STDV>
+ <BIAS>   1.52843690     </BIAS>
+ <RMSE>  0.948284864     </RMSE>
+ <CORR>   3.26625835E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3047 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.67546868     </BIAS>
+ <RMSE>  0.698145926     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3047 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2937.73828     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.58478022     </BIAS>
+ <RMSE>  0.723545313     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.60714284E-02 </MEAN_OBS>
+ <STDV_OBS>  0.545386791     </STDV_OBS>
+ <EXP>
+ <ID>        3062 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.184233293     </MEAN>
+ <STDV>  -31560764.0     </STDV>
+ <BIAS>  0.215529889     </BIAS>
+ <RMSE>  0.856720150     </RMSE>
+ <CORR>   2.89710322E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3062 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.238301665     </BIAS>
+ <RMSE>  0.841300189     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3062 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3137.40405     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.451121747     </BIAS>
+ <RMSE>  0.556507111     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.194444463     </MEAN_OBS>
+ <STDV_OBS>   1.52250540     </STDV_OBS>
+ <EXP>
+ <ID>        3063 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>  0.465146184     </MEAN>
+ <STDV>   3.26625835E+26 </STDV>
+ <BIAS>   5.41506481     </BIAS>
+ <RMSE>  0.122895434     </RMSE>
+ <CORR>  -31502684.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3063 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.50507545     </BIAS>
+ <RMSE>  0.236546695     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3063 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   2824.76245     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.20533025     </BIAS>
+ <RMSE>  0.652508497     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.99999940E-02 </MEAN_OBS>
+ <STDV_OBS>  0.529904902     </STDV_OBS>
+ <EXP>
+ <ID>        3066 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.131430462     </MEAN>
+ <STDV>  -31502492.0     </STDV>
+ <BIAS>  0.204774618     </BIAS>
+ <RMSE>  0.894015968     </RMSE>
+ <CORR>   3.27571452E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3066 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.214337662     </BIAS>
+ <RMSE>  0.866187394     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3066 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   8.41820621     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.374164909     </BIAS>
+ <RMSE>  0.705388248     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.101785704     </MEAN_OBS>
+ <STDV_OBS>  0.450063437     </STDV_OBS>
+ <EXP>
+ <ID>        3068 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.140062898     </MEAN>
+ <STDV>   3.40934089E+26 </STDV>
+ <BIAS>  0.623899877     </BIAS>
+ <RMSE>  0.356439352     </RMSE>
+ <CORR>  -31502684.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3068 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.243672073     </BIAS>
+ <RMSE>  0.844071507     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3068 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2585.91943     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.418222845     </BIAS>
+ <RMSE>  0.544625223     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.119642861     </MEAN_OBS>
+ <STDV_OBS>  0.594800949     </STDV_OBS>
+ <EXP>
+ <ID>        3075 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.205291286     </MEAN>
+ <STDV>  -31502620.0     </STDV>
+ <BIAS>  0.398944408     </BIAS>
+ <RMSE>  0.764894426     </RMSE>
+ <CORR>   3.27571452E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3075 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.385608554     </BIAS>
+ <RMSE>  0.782629371     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3075 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   13.4242620     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.323461056     </BIAS>
+ <RMSE>  0.849985719     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.178571433     </MEAN_OBS>
+ <STDV_OBS>   2.06925392     </STDV_OBS>
+ <EXP>
+ <ID>        3080 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.409331888     </MEAN>
+ <STDV>  -32294286.0     </STDV>
+ <BIAS>  0.794892967     </BIAS>
+ <RMSE>  0.213926956     </RMSE>
+ <CORR>  -32809954.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3080 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.28940701     </BIAS>
+ <RMSE>  0.304377854     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3080 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2907.34863     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.94226611     </BIAS>
+ <RMSE>  0.333347350     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.39285702E-02 </MEAN_OBS>
+ <STDV_OBS>  0.212065861     </STDV_OBS>
+ <EXP>
+ <ID>        3088 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   9.81232598E-02 </MEAN>
+ <STDV>   3.27571452E+26 </STDV>
+ <BIAS>  0.233852267     </BIAS>
+ <RMSE>  0.679677486     </RMSE>
+ <CORR>  -31560764.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3088 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.234662026     </BIAS>
+ <RMSE>  0.677348137     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3088 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3053.37817     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.253233105     </BIAS>
+ <RMSE>  0.607691705     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.85714239E-02 </MEAN_OBS>
+ <STDV_OBS>  0.872649252     </STDV_OBS>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.230617434     </MEAN>
+ <STDV>  -32809954.0     </STDV>
+ <BIAS>  0.558320224     </BIAS>
+ <RMSE>  0.913640380     </RMSE>
+ <CORR>   3.26625835E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.534448147     </BIAS>
+ <RMSE>  0.888886809     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3338.37256     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.519827068     </BIAS>
+ <RMSE>  0.908781052     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.483928561     </MEAN_OBS>
+ <STDV_OBS>   1.36557877     </STDV_OBS>
+ <EXP>
+ <ID>        3100 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.502332807     </MEAN>
+ <STDV>  -31560764.0     </STDV>
+ <BIAS>   1.34991324     </BIAS>
+ <RMSE>  0.682014585     </RMSE>
+ <CORR>   2.89710285E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3100 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.864141405     </BIAS>
+ <RMSE>  0.846075594     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3100 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3016.71240     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.772796035     </BIAS>
+ <RMSE>  0.878488660     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.255357176     </MEAN_OBS>
+ <STDV_OBS>   1.02532625     </STDV_OBS>
+ <EXP>
+ <ID>        3105 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.408194751     </MEAN>
+ <STDV>   3.26625835E+26 </STDV>
+ <BIAS>  0.619627893     </BIAS>
+ <RMSE>  0.813869834     </RMSE>
+ <CORR>  -31502492.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3105 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.677583575     </BIAS>
+ <RMSE>  0.779533386     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3105 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2358.10303     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.720927000     </BIAS>
+ <RMSE>  0.737635374     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.325000018     </MEAN_OBS>
+ <STDV_OBS>   1.41813397     </STDV_OBS>
+ <EXP>
+ <ID>        3111 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.450717568     </MEAN>
+ <STDV>   2.89710285E+26 </STDV>
+ <BIAS>   2.26793742     </BIAS>
+ <RMSE>  0.142854854     </RMSE>
+ <CORR>   3.40934089E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3111 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.47194409     </BIAS>
+ <RMSE>  0.258501619     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3111 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2601.53247     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.66919923     </BIAS>
+ <RMSE>  0.212720513     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.291891903     </MEAN_OBS>
+ <STDV_OBS>  0.953473091     </STDV_OBS>
+ <EXP>
+ <ID>        3132 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         111 </NUM>
+ <MEAN>  0.264981598     </MEAN>
+ <STDV>  -31502492.0     </STDV>
+ <BIAS>  0.862153828     </BIAS>
+ <RMSE>  0.855054259     </RMSE>
+ <CORR>   3.26627053E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3132 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         111 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.874274850     </BIAS>
+ <RMSE>  0.812608361     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3132 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         111 </NUM>
+ <MEAN>   2765.43994     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.08984137     </BIAS>
+ <RMSE>  0.472153217     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.642857254     </MEAN_OBS>
+ <STDV_OBS>   2.27594185     </STDV_OBS>
+ <EXP>
+ <ID>        3134 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.738254726     </MEAN>
+ <STDV>   3.40934089E+26 </STDV>
+ <BIAS>   1.39658439     </BIAS>
+ <RMSE>  0.623629034     </RMSE>
+ <CORR>  -31502620.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3134 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.82253575     </BIAS>
+ <RMSE>  0.538622499     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3134 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3004.20410     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.03384328     </BIAS>
+ <RMSE>  0.498777747     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.275000006     </MEAN_OBS>
+ <STDV_OBS>  0.992132485     </STDV_OBS>
+ <EXP>
+ <ID>        3136 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.349200130     </MEAN>
+ <STDV>   3.26627053E+26 </STDV>
+ <BIAS>  0.866385341     </BIAS>
+ <RMSE>  0.645925343     </RMSE>
+ <CORR>  -32294286.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3136 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17194152     </BIAS>
+ <RMSE>  0.531157017     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3136 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2764.75220     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.892190754     </BIAS>
+ <RMSE>  0.622929931     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.512500167     </MEAN_OBS>
+ <STDV_OBS>   1.05098081     </STDV_OBS>
+ <EXP>
+ <ID>        3144 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.398351312     </MEAN>
+ <STDV>  -31502620.0     </STDV>
+ <BIAS>   3.97232485     </BIAS>
+ <RMSE>  0.118161105     </RMSE>
+ <CORR>   3.27571452E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3144 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.18303013     </BIAS>
+ <RMSE>  0.645889401     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3144 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2869.83569     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.82879066     </BIAS>
+ <RMSE>  0.379726768     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.407142848     </MEAN_OBS>
+ <STDV_OBS>  0.865505397     </STDV_OBS>
+ <EXP>
+ <ID>        3153 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.246368468     </MEAN>
+ <STDV>   3.26625872E+26 </STDV>
+ <BIAS>   1.58974504     </BIAS>
+ <RMSE>  0.865155637     </RMSE>
+ <CORR>  -31560764.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3153 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.56692684     </BIAS>
+ <RMSE>  0.905529439     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3153 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   11.0824976     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.55706930     </BIAS>
+ <RMSE>  0.893417060     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.553571582     </MEAN_OBS>
+ <STDV_OBS>   3.96398211     </STDV_OBS>
+ <EXP>
+ <ID>        3155 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.787859559     </MEAN>
+ <STDV>  -32809954.0     </STDV>
+ <BIAS>   2.56720662     </BIAS>
+ <RMSE>  0.256765097     </RMSE>
+ <CORR>   3.27571489E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3155 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.05556154     </BIAS>
+ <RMSE>  0.628581703     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3155 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2986.58472     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.95924783     </BIAS>
+ <RMSE>  0.218953893     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.271428555     </MEAN_OBS>
+ <STDV_OBS>   2.73468184     </STDV_OBS>
+ <EXP>
+ <ID>        3158 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.542398095     </MEAN>
+ <STDV>  -31560764.0     </STDV>
+ <BIAS>  0.574709415     </BIAS>
+ <RMSE>  0.770589292     </RMSE>
+ <CORR>   2.89710285E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3158 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.71447682     </BIAS>
+ <RMSE>  0.772436440     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3158 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2869.08081     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.37597585     </BIAS>
+ <RMSE>  0.545527637     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.20714283     </MEAN_OBS>
+ <STDV_OBS>   3.54630089     </STDV_OBS>
+ <EXP>
+ <ID>        3162 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.31336844     </MEAN>
+ <STDV>   3.27571489E+26 </STDV>
+ <BIAS>   3.45302105     </BIAS>
+ <RMSE>  0.513790667     </RMSE>
+ <CORR>  -31502492.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3162 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.23524404     </BIAS>
+ <RMSE>  0.563417494     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3162 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3164.69263     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.92786837     </BIAS>
+ <RMSE>  0.689095140     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.228571504     </MEAN_OBS>
+ <STDV_OBS>   1.22902000     </STDV_OBS>
+ <EXP>
+ <ID>        3166 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.398895770     </MEAN>
+ <STDV>   3.26640814E+26 </STDV>
+ <BIAS>  0.681077063     </BIAS>
+ <RMSE>  0.638032734     </RMSE>
+ <CORR>   3.40934089E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3166 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.630054653     </BIAS>
+ <RMSE>  0.725552619     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3166 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2972.69238     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.04305172     </BIAS>
+ <RMSE>  0.527624846     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.50000030E-02 </MEAN_OBS>
+ <STDV_OBS>  0.282669753     </STDV_OBS>
+ <EXP>
+ <ID>        3171 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.114410073     </MEAN>
+ <STDV>  -31502492.0     </STDV>
+ <BIAS>  0.513705671     </BIAS>
+ <RMSE>  0.135845944     </RMSE>
+ <CORR>   2.89710285E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3171 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.321861446     </BIAS>
+ <RMSE>  0.288694918     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3171 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3209.00049     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.301884830     </BIAS>
+ <RMSE>  0.306316346     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.135714293     </MEAN_OBS>
+ <STDV_OBS>  0.286364913     </STDV_OBS>
+ <EXP>
+ <ID>        3204 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   7.54827857E-02 </MEAN>
+ <STDV>   3.40934089E+26 </STDV>
+ <BIAS>  0.801493347     </BIAS>
+ <RMSE>  0.348387390     </RMSE>
+ <CORR>  -31502620.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3204 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.658852100     </BIAS>
+ <RMSE>  0.833144248     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3204 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3158.99927     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.569417655     </BIAS>
+ <RMSE>  0.883562982     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.203571454     </MEAN_OBS>
+ <STDV_OBS>  0.594513297     </STDV_OBS>
+ <EXP>
+ <ID>        3210 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.149514779     </MEAN>
+ <STDV>   3.26639633E+26 </STDV>
+ <BIAS>   1.03993952     </BIAS>
+ <RMSE>  0.640073955     </RMSE>
+ <CORR>  -32294286.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3210 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.38544393     </BIAS>
+ <RMSE>  0.176816389     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3210 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3086.27051     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.983865142     </BIAS>
+ <RMSE>  0.726483047     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.371428639     </MEAN_OBS>
+ <STDV_OBS>   1.31343460     </STDV_OBS>
+ <EXP>
+ <ID>        3212 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.361807048     </MEAN>
+ <STDV>  -31502620.0     </STDV>
+ <BIAS>   1.02905500     </BIAS>
+ <RMSE>  0.573066115     </RMSE>
+ <CORR>   2.89710322E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3212 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.26648843     </BIAS>
+ <RMSE>  0.449662536     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3212 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3010.29761     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.23055959     </BIAS>
+ <RMSE>  0.539336622     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.142857149     </MEAN_OBS>
+ <STDV_OBS>  0.353402436     </STDV_OBS>
+ <EXP>
+ <ID>        3214 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   8.92326981E-02 </MEAN>
+ <STDV>  -32294286.0     </STDV>
+ <BIAS>  0.740573764     </BIAS>
+ <RMSE>  0.954961061     </RMSE>
+ <CORR>  -32816884.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3214 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.779948592     </BIAS>
+ <RMSE>  0.660148621     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3214 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2917.25562     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.694472492     </BIAS>
+ <RMSE>  0.781963229     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.250000030     </MEAN_OBS>
+ <STDV_OBS>   1.21323967     </STDV_OBS>
+ <EXP>
+ <ID>        3220 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.436326087     </MEAN>
+ <STDV>   2.89710322E+26 </STDV>
+ <BIAS>   1.33193290     </BIAS>
+ <RMSE>  0.366757780     </RMSE>
+ <CORR>  -31560764.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3220 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.28661430     </BIAS>
+ <RMSE>  0.803782344     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3220 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2930.81177     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.08773351     </BIAS>
+ <RMSE>  0.506027937     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.459999979     </MEAN_OBS>
+ <STDV_OBS>   3.34678912     </STDV_OBS>
+ <EXP>
+ <ID>        3224 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   1.04856968     </MEAN>
+ <STDV>   3.41079339E+26 </STDV>
+ <BIAS>   1.32840991     </BIAS>
+ <RMSE>  0.549349666     </RMSE>
+ <CORR>   3.27571489E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3224 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.741547227     </BIAS>
+ <RMSE>  0.802004695     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3224 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   2550.36206     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.62620020     </BIAS>
+ <RMSE>  0.702026308     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.30000007     </MEAN_OBS>
+ <STDV_OBS>   3.44222069     </STDV_OBS>
+ <EXP>
+ <ID>        3225 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.13547981     </MEAN>
+ <STDV>  -31560764.0     </STDV>
+ <BIAS>   4.59138966     </BIAS>
+ <RMSE>  0.315904409     </RMSE>
+ <CORR>  -32816884.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3225 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.19160986     </BIAS>
+ <RMSE>  0.393312007     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3225 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2740.01709     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.89844036     </BIAS>
+ <RMSE>  0.489730477     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.13214290     </MEAN_OBS>
+ <STDV_OBS>   2.50500846     </STDV_OBS>
+ <EXP>
+ <ID>        3226 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.766666710     </MEAN>
+ <STDV>   3.27571489E+26 </STDV>
+ <BIAS>   2.87229419     </BIAS>
+ <RMSE>  0.614175200     </RMSE>
+ <CORR>  -31502492.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3226 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.37368727     </BIAS>
+ <RMSE>  0.375217140     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3226 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3092.17847     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.72659874     </BIAS>
+ <RMSE>  0.659750104     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.342857182     </MEAN_OBS>
+ <STDV_OBS>   2.91362071     </STDV_OBS>
+ <EXP>
+ <ID>        3230 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.852112412     </MEAN>
+ <STDV>  -31502620.0     </STDV>
+ <BIAS>   1.05932879     </BIAS>
+ <RMSE>  0.797436297     </RMSE>
+ <CORR>   3.26639633E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3230 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.82635379     </BIAS>
+ <RMSE>  0.591225564     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3230 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   10.4777346     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.73881531     </BIAS>
+ <RMSE>  0.329319060     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.142857134     </MEAN_OBS>
+ <STDV_OBS>   2.09957814     </STDV_OBS>
+ <EXP>
+ <ID>        3238 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.489445001     </MEAN>
+ <STDV>   3.40934089E+26 </STDV>
+ <BIAS>   2.24679613     </BIAS>
+ <RMSE>  0.674704731     </RMSE>
+ <CORR>  -32816948.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3238 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.09562755     </BIAS>
+ <RMSE>  0.772528589     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3238 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2966.05859     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.59338677     </BIAS>
+ <RMSE>  0.876394987     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.128571436     </MEAN_OBS>
+ <STDV_OBS>  0.490155935     </STDV_OBS>
+ <EXP>
+ <ID>        3240 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.197623104     </MEAN>
+ <STDV>   3.26639633E+26 </STDV>
+ <BIAS>  0.350694984     </BIAS>
+ <RMSE>  0.678187013     </RMSE>
+ <CORR>  -32294286.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3240 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.379472196     </BIAS>
+ <RMSE>  0.590600967     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3240 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2276.89380     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.373136133     </BIAS>
+ <RMSE>  0.664875686     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.250000030     </MEAN_OBS>
+ <STDV_OBS>  0.917721033     </STDV_OBS>
+ <EXP>
+ <ID>        3257 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.331485748     </MEAN>
+ <STDV>  -32816948.0     </STDV>
+ <BIAS>   1.06303012     </BIAS>
+ <RMSE>  0.274593294     </RMSE>
+ <CORR>   2.89710322E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3257 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.825503528     </BIAS>
+ <RMSE>  0.388780504     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3257 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2708.89893     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.968485832     </BIAS>
+ <RMSE>  0.357551306     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.503571451     </MEAN_OBS>
+ <STDV_OBS>  0.548499823     </STDV_OBS>
+ <EXP>
+ <ID>        3265 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.233961701     </MEAN>
+ <STDV>  -31560954.0     </STDV>
+ <BIAS>   2.63443446     </BIAS>
+ <RMSE>   7.29086027E-02 </RMSE>
+ <CORR>   3.41079339E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3265 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.20825887     </BIAS>
+ <RMSE>  0.577757895     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3265 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2833.69360     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.45891118     </BIAS>
+ <RMSE>  0.363811672     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.278571457     </MEAN_OBS>
+ <STDV_OBS>  0.500099957     </STDV_OBS>
+ <EXP>
+ <ID>        3266 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.179654136     </MEAN>
+ <STDV>   2.89710322E+26 </STDV>
+ <BIAS>   1.06125677     </BIAS>
+ <RMSE>  0.244644597     </RMSE>
+ <CORR>  -32294300.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3266 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.36564398     </BIAS>
+ <RMSE>  0.234730214     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3266 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2755.25220     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.11630404     </BIAS>
+ <RMSE>  0.179749295     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.264814824     </MEAN_OBS>
+ <STDV_OBS>   1.31491244     </STDV_OBS>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>  0.471585125     </MEAN>
+ <STDV>  -32816884.0     </STDV>
+ <BIAS>  0.943572760     </BIAS>
+ <RMSE>  0.636828661     </RMSE>
+ <CORR>   3.27571489E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.42705846     </BIAS>
+ <RMSE>  0.459784299     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   2694.57202     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.07081485     </BIAS>
+ <RMSE>  0.586340308     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.138181806     </MEAN_OBS>
+ <STDV_OBS>  0.801001191     </STDV_OBS>
+ <EXP>
+ <ID>        3281 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>  0.464549601     </MEAN>
+ <STDV>  -32294300.0     </STDV>
+ <BIAS>  0.920842052     </BIAS>
+ <RMSE>  -7.42267119E-04 </RMSE>
+ <CORR>   3.26626979E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3281 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.30946839     </BIAS>
+ <RMSE>  -1.11400029E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3281 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   2209.78540     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.840534449     </BIAS>
+ <RMSE>  0.169056684     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.99999866E-02 </MEAN_OBS>
+ <STDV_OBS>   1.51944828     </STDV_OBS>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.332602471     </MEAN>
+ <STDV>   3.27571489E+26 </STDV>
+ <BIAS>   3.68043423     </BIAS>
+ <RMSE>  0.724387169     </RMSE>
+ <CORR>  -31502620.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.518188775     </BIAS>
+ <RMSE>  0.714559078     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   6.67816114     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17602444     </BIAS>
+ <RMSE>  0.847645342     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.14285746E-02 </MEAN_OBS>
+ <STDV_OBS>  0.521101654     </STDV_OBS>
+ <EXP>
+ <ID>        3301 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.147704169     </MEAN>
+ <STDV>   3.26626979E+26 </STDV>
+ <BIAS>   1.27231312     </BIAS>
+ <RMSE>  0.462617010     </RMSE>
+ <CORR>   3.40932687E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3301 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.263647616     </BIAS>
+ <RMSE>  0.795102179     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3301 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2769.22583     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.308764607     </BIAS>
+ <RMSE>  0.832234859     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.92857164E-02 </MEAN_OBS>
+ <STDV_OBS>  0.293444335     </STDV_OBS>
+ <EXP>
+ <ID>        3302 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   6.95033967E-02 </MEAN>
+ <STDV>  -31502620.0     </STDV>
+ <BIAS>  0.664536178     </BIAS>
+ <RMSE>  0.782824636     </RMSE>
+ <CORR>   3.26639633E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3302 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.262318403     </BIAS>
+ <RMSE>  0.904915988     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3302 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3051.35474     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.332857609     </BIAS>
+ <RMSE>  0.718353510     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.367857158     </MEAN_OBS>
+ <STDV_OBS>   2.58966660     </STDV_OBS>
+ <EXP>
+ <ID>        3305 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.685779214     </MEAN>
+ <STDV>  -32873366.0     </STDV>
+ <BIAS>   2.56037092     </BIAS>
+ <RMSE>  0.165198028     </RMSE>
+ <CORR>  -31502492.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3305 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.47113681     </BIAS>
+ <RMSE>  0.256408125     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3305 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2893.37451     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.45321941     </BIAS>
+ <RMSE>  0.430943877     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.10714336E-02 </MEAN_OBS>
+ <STDV_OBS>   1.06273985     </STDV_OBS>
+ <EXP>
+ <ID>        3313 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.180513248     </MEAN>
+ <STDV>   3.26639633E+26 </STDV>
+ <BIAS>  0.479701281     </BIAS>
+ <RMSE>  0.446885943     </RMSE>
+ <CORR>   3.40934089E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3313 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.881043315     </BIAS>
+ <RMSE>  0.385927111     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3313 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3161.21655     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.989823997     </BIAS>
+ <RMSE>  0.455424458     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.14285746E-02 </MEAN_OBS>
+ <STDV_OBS>  0.622668087     </STDV_OBS>
+ <EXP>
+ <ID>        3316 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.125008836     </MEAN>
+ <STDV>  -31502492.0     </STDV>
+ <BIAS>  0.326000333     </BIAS>
+ <RMSE>  0.230062708     </RMSE>
+ <CORR>   2.89710322E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3316 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.523627460     </BIAS>
+ <RMSE>   7.21159503E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3316 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2883.62305     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.677434385     </BIAS>
+ <RMSE>   6.91298470E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.35714328E-02 </MEAN_OBS>
+ <STDV_OBS>  0.153866798     </STDV_OBS>
+ <EXP>
+ <ID>        3318 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   4.40153740E-02 </MEAN>
+ <STDV>   3.40934089E+26 </STDV>
+ <BIAS>  0.263172507     </BIAS>
+ <RMSE>  0.445926875     </RMSE>
+ <CORR>  -32816884.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3318 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.248933092     </BIAS>
+ <RMSE>  0.579820514     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3318 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2919.65503     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.250917554     </BIAS>
+ <RMSE>  0.520993412     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.517857194     </MEAN_OBS>
+ <STDV_OBS>   1.34624875     </STDV_OBS>
+ <EXP>
+ <ID>        3321 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.185899720     </MEAN>
+ <STDV>   2.89710322E+26 </STDV>
+ <BIAS>   2.31904101     </BIAS>
+ <RMSE>   5.68851642E-02 </RMSE>
+ <CORR>  -32294300.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3321 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.07563472     </BIAS>
+ <RMSE>  0.691970229     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3321 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.364962727     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.29490256     </BIAS>
+ <RMSE>  0.299129277     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.50000022E-02 </MEAN_OBS>
+ <STDV_OBS>  0.267318368     </STDV_OBS>
+ <EXP>
+ <ID>        3330 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.106706664     </MEAN>
+ <STDV>  -32816884.0     </STDV>
+ <BIAS>  0.543889880     </BIAS>
+ <RMSE>  -5.09143770E-02 </RMSE>
+ <CORR>   3.42099112E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3330 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.09674871     </BIAS>
+ <RMSE>  -4.25258800E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3330 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2802.79077     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.300884366     </BIAS>
+ <RMSE>  -8.36077183E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.85714343E-02 </MEAN_OBS>
+ <STDV_OBS>   2.47526526     </STDV_OBS>
+ <EXP>
+ <ID>        3344 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.484950572     </MEAN>
+ <STDV>  -32294300.0     </STDV>
+ <BIAS>   1.07457352     </BIAS>
+ <RMSE>  0.408384264     </RMSE>
+ <CORR>   3.26626979E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3344 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.63838243     </BIAS>
+ <RMSE>  0.383597732     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3344 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3249.25049     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.42745185     </BIAS>
+ <RMSE>  0.354574621     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.55555485E-02 </MEAN_OBS>
+ <STDV_OBS>  0.519264877     </STDV_OBS>
+ <EXP>
+ <ID>        3346 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>  0.143241569     </MEAN>
+ <STDV>   3.42099112E+26 </STDV>
+ <BIAS>  0.523523748     </BIAS>
+ <RMSE>   1.92031562E-02 </RMSE>
+ <CORR>  -31502620.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3346 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.646557212     </BIAS>
+ <RMSE>  -1.86882690E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3346 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   3229.98853     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.592615485     </BIAS>
+ <RMSE>  -2.76232697E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.40740774E-03 </MEAN_OBS>
+ <STDV_OBS>  0.632187665     </STDV_OBS>
+ <EXP>
+ <ID>        3351 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>  0.182747573     </MEAN>
+ <STDV>   3.26626979E+26 </STDV>
+ <BIAS>   1.86233318     </BIAS>
+ <RMSE>   1.41067756E-02 </RMSE>
+ <CORR>  -32873366.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3351 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.91294289     </BIAS>
+ <RMSE>   5.12190722E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3351 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   1.18987477     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.627949536     </BIAS>
+ <RMSE>   6.70150518E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.396428615     </MEAN_OBS>
+ <STDV_OBS>  0.177131370     </STDV_OBS>
+ <EXP>
+ <ID>        3354 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   6.70819730E-02 </MEAN>
+ <STDV>  -31502620.0     </STDV>
+ <BIAS>   1.68320453     </BIAS>
+ <RMSE>  -2.74656136E-02 </RMSE>
+ <CORR>   3.26639633E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3354 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.65850997     </BIAS>
+ <RMSE>  -8.92773736E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3354 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2965.14795     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.62131083     </BIAS>
+ <RMSE>  0.238021776     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.364285767     </MEAN_OBS>
+ <STDV_OBS>  0.400748402     </STDV_OBS>
+ <EXP>
+ <ID>        3373 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.115828276     </MEAN>
+ <STDV>  -32873366.0     </STDV>
+ <BIAS>   1.76292431     </BIAS>
+ <RMSE>  0.251306891     </RMSE>
+ <CORR>  -31502492.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3373 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.86401701     </BIAS>
+ <RMSE>   3.81101929E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3373 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3216.67090     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.72945833     </BIAS>
+ <RMSE>  0.294500351     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.585714221     </MEAN_OBS>
+ <STDV_OBS>  0.460457385     </STDV_OBS>
+ <EXP>
+ <ID>        3377 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.128540054     </MEAN>
+ <STDV>   3.26639633E+26 </STDV>
+ <BIAS>   2.52353144     </BIAS>
+ <RMSE>  0.228526577     </RMSE>
+ <CORR>   3.40934089E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3377 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.97906375     </BIAS>
+ <RMSE>  0.674067497     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3377 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2801.54102     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.50462914     </BIAS>
+ <RMSE>  0.267184466     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.441071510     </MEAN_OBS>
+ <STDV_OBS>   1.74955285     </STDV_OBS>
+ <EXP>
+ <ID>        3379 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.270533651     </MEAN>
+ <STDV>  -31502684.0     </STDV>
+ <BIAS>   2.36399889     </BIAS>
+ <RMSE>  0.245041743     </RMSE>
+ <CORR>   2.89710322E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3379 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.46785498     </BIAS>
+ <RMSE>  0.145772338     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3379 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2966.99194     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.29842782     </BIAS>
+ <RMSE>  0.327538908     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.407142937     </MEAN_OBS>
+ <STDV_OBS>  0.923776686     </STDV_OBS>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.297581792     </MEAN>
+ <STDV>  -33081910.0     </STDV>
+ <BIAS>   1.81693220     </BIAS>
+ <RMSE>  0.799995482     </RMSE>
+ <CORR>  -32816948.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.10188365     </BIAS>
+ <RMSE>  0.299019217     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3074.03687     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.61496472     </BIAS>
+ <RMSE>  0.703166723     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.57142910E-02 </MEAN_OBS>
+ <STDV_OBS>  0.263193041     </STDV_OBS>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   8.94997343E-02 </MEAN>
+ <STDV>   3.41079339E+26 </STDV>
+ <BIAS>  0.155085072     </BIAS>
+ <RMSE>  0.320673704     </RMSE>
+ <CORR>   3.42099112E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.259231091     </BIAS>
+ <RMSE>  0.420913994     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2863.61279     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.252042681     </BIAS>
+ <RMSE>  0.303431600     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.187500030     </MEAN_OBS>
+ <STDV_OBS>  0.157134041     </STDV_OBS>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   7.00288489E-02 </MEAN>
+ <STDV>  -32816822.0     </STDV>
+ <BIAS>   1.16395783     </BIAS>
+ <RMSE>  0.690118849     </RMSE>
+ <CORR>  -32816948.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.21600866     </BIAS>
+ <RMSE>  -2.94469763E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2792.58643     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.19096911     </BIAS>
+ <RMSE>   7.61317983E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.39285702E-02 </MEAN_OBS>
+ <STDV_OBS>  0.234800071     </STDV_OBS>
+ <EXP>
+ <ID>        3405 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   6.61967844E-02 </MEAN>
+ <STDV>   3.42099112E+26 </STDV>
+ <BIAS>  0.303815573     </BIAS>
+ <RMSE>  0.623601317     </RMSE>
+ <CORR>   3.40932945E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3405 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.268264621     </BIAS>
+ <RMSE>  0.837765396     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3405 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2955.23169     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.240428597     </BIAS>
+ <RMSE>  0.798039794     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.110714287     </MEAN_OBS>
+ <STDV_OBS>   1.57930577     </STDV_OBS>
+ <EXP>
+ <ID>        3409 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.311972111     </MEAN>
+ <STDV>  -32816948.0     </STDV>
+ <BIAS>  0.495557994     </BIAS>
+ <RMSE>  0.579600275     </RMSE>
+ <CORR>  -31560954.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3409 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.500569344     </BIAS>
+ <RMSE>  0.450436413     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3409 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3586.96240     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.24417710     </BIAS>
+ <RMSE>  0.704874456     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.150000006     </MEAN_OBS>
+ <STDV_OBS>   3.11970568     </STDV_OBS>
+ <EXP>
+ <ID>        3410 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.474413276     </MEAN>
+ <STDV>   3.40932945E+26 </STDV>
+ <BIAS>   1.59682417     </BIAS>
+ <RMSE>  0.352360219     </RMSE>
+ <CORR>   3.26639633E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3410 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.892908871     </BIAS>
+ <RMSE>  0.261592537     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3410 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2.99011183     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.14937997     </BIAS>
+ <RMSE>   6.60723895E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.507142901     </MEAN_OBS>
+ <STDV_OBS>   1.59645796     </STDV_OBS>
+ <EXP>
+ <ID>        3414 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.264103949     </MEAN>
+ <STDV>  -31560954.0     </STDV>
+ <BIAS>   3.42346811     </BIAS>
+ <RMSE>  0.176600859     </RMSE>
+ <CORR>  -32816884.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3414 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.60247469     </BIAS>
+ <RMSE>  0.408909053     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3414 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2988.06909     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.92234540     </BIAS>
+ <RMSE>  0.540720224     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.53571433E-02 </MEAN_OBS>
+ <STDV_OBS>  0.492309242     </STDV_OBS>
+ <EXP>
+ <ID>        3462 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.130497962     </MEAN>
+ <STDV>   2.89710285E+26 </STDV>
+ <BIAS>  0.656302571     </BIAS>
+ <RMSE>  0.137957156     </RMSE>
+ <CORR>  -32294300.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3462 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.03901434     </BIAS>
+ <RMSE>  0.253421158     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3462 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3130.66870     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.564407945     </BIAS>
+ <RMSE>  -6.53853035E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.89285679E-02 </MEAN_OBS>
+ <STDV_OBS>  0.708843112     </STDV_OBS>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.155909523     </MEAN>
+ <STDV>  -32816884.0     </STDV>
+ <BIAS>  0.198546320     </BIAS>
+ <RMSE>  0.739516497     </RMSE>
+ <CORR>   3.26625872E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.814714849     </BIAS>
+ <RMSE>  0.336690098     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2976.49390     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.694241285     </BIAS>
+ <RMSE>  0.247315958     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.364285767     </MEAN_OBS>
+ <STDV_OBS>  0.696082890     </STDV_OBS>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.157026321     </MEAN>
+ <STDV>  -32294300.0     </STDV>
+ <BIAS>   1.91511869     </BIAS>
+ <RMSE>  0.809549868     </RMSE>
+ <CORR>   3.41079339E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.88549125     </BIAS>
+ <RMSE>  0.379886419     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2979.44604     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.67257690     </BIAS>
+ <RMSE>  0.617641211     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.17857149E-02 </MEAN_OBS>
+ <STDV_OBS>  0.655154526     </STDV_OBS>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.126098782     </MEAN>
+ <STDV>   3.27571452E+26 </STDV>
+ <BIAS>  0.157419726     </BIAS>
+ <RMSE>  0.203734860     </RMSE>
+ <CORR>  -32816822.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.168370560     </BIAS>
+ <RMSE>  0.286941618     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2951.29492     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.614780128     </BIAS>
+ <RMSE>  0.355042100     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.144642875     </MEAN_OBS>
+ <STDV_OBS>  0.602650404     </STDV_OBS>
+ <EXP>
+ <ID>        3502 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.134970173     </MEAN>
+ <STDV>   3.41079339E+26 </STDV>
+ <BIAS>  0.679161370     </BIAS>
+ <RMSE>  0.237216577     </RMSE>
+ <CORR>   3.41077900E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3502 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.648318708     </BIAS>
+ <RMSE>  0.511883616     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3502 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3024.08789     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.628226221     </BIAS>
+ <RMSE>  0.369657576     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.82142828E-02 </MEAN_OBS>
+ <STDV_OBS>  0.288888156     </STDV_OBS>
+ <EXP>
+ <ID>        3503 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   8.68625194E-02 </MEAN>
+ <STDV>  -32816822.0     </STDV>
+ <BIAS>  0.365181863     </BIAS>
+ <RMSE>  0.124771833     </RMSE>
+ <CORR>  -32809506.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3503 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.15997910     </BIAS>
+ <RMSE>  0.117880210     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3503 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3049.34277     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.274995387     </BIAS>
+ <RMSE>  0.333709508     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.148214296     </MEAN_OBS>
+ <STDV_OBS>  0.644874036     </STDV_OBS>
+ <EXP>
+ <ID>        3507 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.251883924     </MEAN>
+ <STDV>   3.41077900E+26 </STDV>
+ <BIAS>   1.52886426     </BIAS>
+ <RMSE>  0.598143935     </RMSE>
+ <CORR>   3.40932945E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3507 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.640106201     </BIAS>
+ <RMSE>  0.340019405     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3507 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2946.81128     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.539130092     </BIAS>
+ <RMSE>  0.654927611     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.141071424     </MEAN_OBS>
+ <STDV_OBS>   1.09244657     </STDV_OBS>
+ <EXP>
+ <ID>        3520 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.182900503     </MEAN>
+ <STDV>  -32809506.0     </STDV>
+ <BIAS>   2.32402754     </BIAS>
+ <RMSE>  -7.05208350E-03 </RMSE>
+ <CORR>  -31560954.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3520 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.52382088     </BIAS>
+ <RMSE>  -1.53079908E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3520 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3251.21826     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.28202426     </BIAS>
+ <RMSE>  -1.61261503E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.371428579     </MEAN_OBS>
+ <STDV_OBS>  0.607548058     </STDV_OBS>
+ <EXP>
+ <ID>        3522 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.109344125     </MEAN>
+ <STDV>   3.40932945E+26 </STDV>
+ <BIAS>   2.28101254     </BIAS>
+ <RMSE>  -2.20142100E-02 </RMSE>
+ <CORR>   2.89710322E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3522 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.30891657     </BIAS>
+ <RMSE>  -2.21226532E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3522 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3171.67944     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.37126708     </BIAS>
+ <RMSE>  -2.25567464E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.107142866     </MEAN_OBS>
+ <STDV_OBS>  0.279005587     </STDV_OBS>
+ <EXP>
+ <ID>        3529 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   7.49683380E-02 </MEAN>
+ <STDV>  -31560954.0     </STDV>
+ <BIAS>  0.602114379     </BIAS>
+ <RMSE>  -5.90162352E-02 </RMSE>
+ <CORR>  -32816884.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3529 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.603149474     </BIAS>
+ <RMSE>  -5.47164343E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3529 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3112.11963     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.662030220     </BIAS>
+ <RMSE>  -4.73714806E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.50000022E-02 </MEAN_OBS>
+ <STDV_OBS>  0.194297895     </STDV_OBS>
+ <EXP>
+ <ID>        3535 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   5.39639704E-02 </MEAN>
+ <STDV>   2.89710322E+26 </STDV>
+ <BIAS>  0.172578692     </BIAS>
+ <RMSE>  -5.09501919E-02 </RMSE>
+ <CORR>  -32294300.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3535 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.352398247     </BIAS>
+ <RMSE>  -3.74976210E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3535 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3103.88843     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.242432505     </BIAS>
+ <RMSE>  -5.10574654E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.78571455E-02 </MEAN_OBS>
+ <STDV_OBS>  0.194783181     </STDV_OBS>
+ <EXP>
+ <ID>        3544 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   4.57891449E-02 </MEAN>
+ <STDV>  -32816884.0     </STDV>
+ <BIAS>  0.484659225     </BIAS>
+ <RMSE>   4.32040244E-02 </RMSE>
+ <CORR>   3.27571452E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3544 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.15511215     </BIAS>
+ <RMSE>  -2.26171152E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3544 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3282.20874     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.156141743     </BIAS>
+ <RMSE>  0.616527498     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.21428627E-02 </MEAN_OBS>
+ <STDV_OBS>  0.286205024     </STDV_OBS>
+ <EXP>
+ <ID>        3560 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   6.96801990E-02 </MEAN>
+ <STDV>  -32294300.0     </STDV>
+ <BIAS>  0.567140400     </BIAS>
+ <RMSE>  -2.93921065E-02 </RMSE>
+ <CORR>   3.41079339E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3560 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.204062477     </BIAS>
+ <RMSE>  -1.81769524E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3560 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3088.53003     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.321865290     </BIAS>
+ <RMSE>  -1.57693513E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.57142873E-02 </MEAN_OBS>
+ <STDV_OBS>  0.570750356     </STDV_OBS>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.142520368     </MEAN>
+ <STDV>   3.27571452E+26 </STDV>
+ <BIAS>  0.877250791     </BIAS>
+ <RMSE>   4.12756279E-02 </RMSE>
+ <CORR>  -32816822.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.40128040     </BIAS>
+ <RMSE>  0.188416690     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2843.95557     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.587757587     </BIAS>
+ <RMSE>  -1.52394250E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.689285696     </MEAN_OBS>
+ <STDV_OBS>   2.71308255     </STDV_OBS>
+ <EXP>
+ <ID>        3604 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.480875075     </MEAN>
+ <STDV>  -32816948.0     </STDV>
+ <BIAS>   2.84886646     </BIAS>
+ <RMSE>   3.20205018E-02 </RMSE>
+ <CORR>   3.41077900E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3604 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.87748957     </BIAS>
+ <RMSE>  -6.60689361E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3604 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3136.97485     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.75211310     </BIAS>
+ <RMSE>   5.27905785E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.150000021     </MEAN_OBS>
+ <STDV_OBS>  0.213468671     </STDV_OBS>
+ <EXP>
+ <ID>        3605 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   6.64369240E-02 </MEAN>
+ <STDV>  -32816822.0     </STDV>
+ <BIAS>  0.740309417     </BIAS>
+ <RMSE>  0.875919759     </RMSE>
+ <CORR>   3.26640814E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3605 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.68099332     </BIAS>
+ <RMSE>  0.434179932     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3605 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2902.61255     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.864611745     </BIAS>
+ <RMSE>   5.76091073E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.109615393     </MEAN_OBS>
+ <STDV_OBS>  0.527438760     </STDV_OBS>
+ <EXP>
+ <ID>        3609 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         104 </NUM>
+ <MEAN>  0.133137181     </MEAN>
+ <STDV>   3.41077900E+26 </STDV>
+ <BIAS>  0.556656063     </BIAS>
+ <RMSE>  0.178532884     </RMSE>
+ <CORR>   3.40932945E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3609 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         104 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.655309677     </BIAS>
+ <RMSE>   6.55309260E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3609 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         104 </NUM>
+ <MEAN>   2916.60986     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.708942235     </BIAS>
+ <RMSE>  0.156332657     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.14285765E-03 </MEAN_OBS>
+ <STDV_OBS>  0.108572759     </STDV_OBS>
+ <EXP>
+ <ID>        3628 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   4.38232459E-02 </MEAN>
+ <STDV>   3.26640814E+26 </STDV>
+ <BIAS>   6.74572065E-02 </BIAS>
+ <RMSE>  0.464760542     </RMSE>
+ <CORR>  -31560954.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3628 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.197904527     </BIAS>
+ <RMSE>  0.140923142     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3628 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.44100070     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.67013463E-02 </BIAS>
+ <RMSE>  0.462298214     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.64285761E-02 </MEAN_OBS>
+ <STDV_OBS>  0.181707144     </STDV_OBS>
+ <EXP>
+ <ID>        3647 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   6.65285289E-02 </MEAN>
+ <STDV>   3.40932945E+26 </STDV>
+ <BIAS>  0.200044468     </BIAS>
+ <RMSE>  0.273277700     </RMSE>
+ <CORR>   2.89710322E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3647 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.319943398     </BIAS>
+ <RMSE>   5.88703752E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3647 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2822.57251     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.258503854     </BIAS>
+ <RMSE>  0.116748326     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.57142910E-02 </MEAN_OBS>
+ <STDV_OBS>   1.29292405     </STDV_OBS>
+ <EXP>
+ <ID>        3649 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.210774153     </MEAN>
+ <STDV>  -31560954.0     </STDV>
+ <BIAS>  0.252280563     </BIAS>
+ <RMSE>  0.453668892     </RMSE>
+ <CORR>  -31502684.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3649 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.236332253     </BIAS>
+ <RMSE>  0.451328725     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3649 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3179.94067     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.22459924     </BIAS>
+ <RMSE>  0.484985381     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.07142821E-02 </MEAN_OBS>
+ <STDV_OBS>  0.250033498     </STDV_OBS>
+ <EXP>
+ <ID>        3658 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   6.03991933E-02 </MEAN>
+ <STDV>   3.27509729E+26 </STDV>
+ <BIAS>  0.361671299     </BIAS>
+ <RMSE>   3.42233572E-03 </RMSE>
+ <CORR>  -32294300.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3658 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.342908472     </BIAS>
+ <RMSE>  0.127086341     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3658 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3140.82275     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.330558032     </BIAS>
+ <RMSE>  0.270443946     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.14285765E-03 </MEAN_OBS>
+ <STDV_OBS>  0.175326601     </STDV_OBS>
+ <EXP>
+ <ID>        3660 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   5.96143715E-02 </MEAN>
+ <STDV>  -31502492.0     </STDV>
+ <BIAS>  0.380455166     </BIAS>
+ <RMSE>   1.05609689E-02 </RMSE>
+ <CORR>   2.89710285E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3660 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.289997846     </BIAS>
+ <RMSE>   2.93724723E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3660 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2801.01245     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.176421836     </BIAS>
+ <RMSE>   5.54044209E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.57142882E-03 </MEAN_OBS>
+ <STDV_OBS>  0.205283716     </STDV_OBS>
+ <EXP>
+ <ID>        3672 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   4.58675064E-02 </MEAN>
+ <STDV>  -32294300.0     </STDV>
+ <BIAS>  0.276799560     </BIAS>
+ <RMSE>  -2.18419340E-02 </RMSE>
+ <CORR>  -32816884.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3672 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.389380395     </BIAS>
+ <RMSE>   1.43647669E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3672 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2909.05225     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.206817240     </BIAS>
+ <RMSE>  -2.83303242E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.42857162E-02 </MEAN_OBS>
+ <STDV_OBS>  0.118961461     </STDV_OBS>
+ <EXP>
+ <ID>        3680 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3.75063010E-02 </MEAN>
+ <STDV>   3.26639633E+26 </STDV>
+ <BIAS>  0.210310549     </BIAS>
+ <RMSE>   7.08532557E-02 </RMSE>
+ <CORR>  -32816822.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3680 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.86975569E-02 </BIAS>
+ <RMSE>  0.354248554     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3680 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2875.73657     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.124971002     </BIAS>
+ <RMSE>  0.164505884     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.63636389E-02 </MEAN_OBS>
+ <STDV_OBS>   1.99794114     </STDV_OBS>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>  0.243317023     </MEAN>
+ <STDV>   3.41079339E+26 </STDV>
+ <BIAS>  0.887807548     </BIAS>
+ <RMSE>  0.648496032     </RMSE>
+ <CORR>   2.77615363E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.439855397     </BIAS>
+ <RMSE>  0.199445590     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>  0.266121268     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.89922583     </BIAS>
+ <RMSE>  0.647837579     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.79917932E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   2.59874128E-02 </MEAN>
+ <STDV>  -32816822.0     </STDV>
+ <BIAS>  0.366357565     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -32816888.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.25782746E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   2966.34106     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.76762834E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.48148164E-02 </MEAN_OBS>
+ <STDV_OBS>  0.771319032     </STDV_OBS>
+ <EXP>
+ <ID>        3707 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>  0.190162942     </MEAN>
+ <STDV>   2.77615363E+26 </STDV>
+ <BIAS>  0.352339476     </BIAS>
+ <RMSE>   4.30732891E-02 </RMSE>
+ <CORR>   3.40932945E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3707 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.704527974     </BIAS>
+ <RMSE>   4.19509411E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3707 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   2176.90991     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.767449617     </BIAS>
+ <RMSE>   3.96510400E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.78260890E-02 </MEAN_OBS>
+ <STDV_OBS>  0.262921214     </STDV_OBS>
+ <EXP>
+ <ID>        3710 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>          92 </NUM>
+ <MEAN>   9.91905928E-02 </MEAN>
+ <STDV>  -32816888.0     </STDV>
+ <BIAS>  0.164851546     </BIAS>
+ <RMSE>  0.526837051     </RMSE>
+ <CORR>  -31560954.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3710 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>          92 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.173262835     </BIAS>
+ <RMSE>  0.483539820     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3710 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>          92 </NUM>
+ <MEAN>   2763.98389     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.117724374     </BIAS>
+ <RMSE>  0.914639413     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.30769254E-02 </MEAN_OBS>
+ <STDV_OBS>  0.158760890     </STDV_OBS>
+ <EXP>
+ <ID>        3716 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         104 </NUM>
+ <MEAN>   5.45485318E-02 </MEAN>
+ <STDV>   3.40932945E+26 </STDV>
+ <BIAS>  0.108693555     </BIAS>
+ <RMSE>  0.383690119     </RMSE>
+ <CORR>   3.27571452E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3716 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         104 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.114559710     </BIAS>
+ <RMSE>  0.530918658     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3716 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         104 </NUM>
+ <MEAN>   2984.21094     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.186817363     </BIAS>
+ <RMSE>   9.25809294E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.07142869E-02 </MEAN_OBS>
+ <STDV_OBS>  0.493029982     </STDV_OBS>
+ <EXP>
+ <ID>        3740 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.124454878     </MEAN>
+ <STDV>  -31560954.0     </STDV>
+ <BIAS>  0.173988983     </BIAS>
+ <RMSE>  0.164234936     </RMSE>
+ <CORR>  -32816948.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3740 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.550255239     </BIAS>
+ <RMSE>   3.48653309E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3740 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2988.55664     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.491072476     </BIAS>
+ <RMSE>   7.78176412E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.89285679E-02 </MEAN_OBS>
+ <STDV_OBS>  0.258464009     </STDV_OBS>
+ <EXP>
+ <ID>        3743 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   6.33410811E-02 </MEAN>
+ <STDV>   3.27571452E+26 </STDV>
+ <BIAS>  0.313860953     </BIAS>
+ <RMSE>  0.628072977     </RMSE>
+ <CORR>  -32294300.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3743 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.289763272     </BIAS>
+ <RMSE>  0.691668034     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3743 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2651.95020     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.449802637     </BIAS>
+ <RMSE>  0.108410314     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.67857164E-02 </MEAN_OBS>
+ <STDV_OBS>  0.305170298     </STDV_OBS>
+ <EXP>
+ <ID>        3746 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   7.71447718E-02 </MEAN>
+ <STDV>   3.41079339E+26 </STDV>
+ <BIAS>  0.357080758     </BIAS>
+ <RMSE>   9.01017562E-02 </RMSE>
+ <CORR>   3.26639633E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3746 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.405562818     </BIAS>
+ <RMSE>   6.26358762E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3746 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2775.70410     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.296006978     </BIAS>
+ <RMSE>  0.256139427     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.78571441E-03 </MEAN_OBS>
+ <STDV_OBS>  0.619976699     </STDV_OBS>
+ <EXP>
+ <ID>        3749 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.106920712     </MEAN>
+ <STDV>  -31502810.0     </STDV>
+ <BIAS>  0.263471544     </BIAS>
+ <RMSE>  0.166121826     </RMSE>
+ <CORR>  -31502492.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3749 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.493723601     </BIAS>
+ <RMSE>  -9.08587966E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3749 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2607.27197     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.617239356     </BIAS>
+ <RMSE>   1.32928565E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.78571388E-02 </MEAN_OBS>
+ <STDV_OBS>  0.137861297     </STDV_OBS>
+ <EXP>
+ <ID>        3761 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   4.79952544E-02 </MEAN>
+ <STDV>   2.89710285E+26 </STDV>
+ <BIAS>  0.281882197     </BIAS>
+ <RMSE>  0.733119667     </RMSE>
+ <CORR>  -33081910.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3761 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.447489321     </BIAS>
+ <RMSE>  -2.63963025E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3761 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2668.86670     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.425705314     </BIAS>
+ <RMSE>  -1.81345548E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.14285746E-02 </MEAN_OBS>
+ <STDV_OBS>  0.192257494     </STDV_OBS>
+ <EXP>
+ <ID>        3768 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   5.28086983E-02 </MEAN>
+ <STDV>  -31502684.0     </STDV>
+ <BIAS>  0.425062567     </BIAS>
+ <RMSE>  0.117327362     </RMSE>
+ <CORR>   3.41077900E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3768 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.532575428     </BIAS>
+ <RMSE>   4.35948558E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3768 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2755.64331     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.426312536     </BIAS>
+ <RMSE>   5.57475053E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.64285724E-02 </MEAN_OBS>
+ <STDV_OBS>  0.399664462     </STDV_OBS>
+ <EXP>
+ <ID>        3769 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   6.82626218E-02 </MEAN>
+ <STDV>  -33081910.0     </STDV>
+ <BIAS>  0.277872622     </BIAS>
+ <RMSE>   9.58499461E-02 </RMSE>
+ <CORR>  -32816952.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3769 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.340832025     </BIAS>
+ <RMSE>   2.88731828E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3769 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2641.94507     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.477002919     </BIAS>
+ <RMSE>   2.95749735E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.57142882E-03 </MEAN_OBS>
+ <STDV_OBS>  0.137946114     </STDV_OBS>
+ <EXP>
+ <ID>        3770 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3.59542482E-02 </MEAN>
+ <STDV>   3.41077900E+26 </STDV>
+ <BIAS>  0.229128227     </BIAS>
+ <RMSE>  -2.30289157E-02 </RMSE>
+ <CORR>   3.26471141E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3770 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.16506433     </BIAS>
+ <RMSE>  -1.64896455E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3770 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2972.56641     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.140750125     </BIAS>
+ <RMSE>  -3.43437232E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.506382227     </STDV_OBS>
+ <EXP>
+ <ID>        3772 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   9.23509449E-02 </MEAN>
+ <STDV>   3.42099370E+26 </STDV>
+ <BIAS>   1.64429212     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -31560764.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3772 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.324227214     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3772 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.365954489     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.504116535     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.57142882E-03 </MEAN_OBS>
+ <STDV_OBS>  0.131370395     </STDV_OBS>
+ <EXP>
+ <ID>        3781 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   4.27511744E-02 </MEAN>
+ <STDV>   3.26471141E+26 </STDV>
+ <BIAS>  0.697397351     </BIAS>
+ <RMSE>   1.97869651E-02 </RMSE>
+ <CORR>  -32809506.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3781 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.17618710E-02 </BIAS>
+ <RMSE>  0.493078023     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3781 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2928.44702     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.122488484     </BIAS>
+ <RMSE>  0.404478252     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.132142857     </MEAN_OBS>
+ <STDV_OBS>  0.442310750     </STDV_OBS>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   7.28631467E-02 </MEAN>
+ <STDV>  -32816884.0     </STDV>
+ <BIAS>  0.712385595     </BIAS>
+ <RMSE>  0.727711797     </RMSE>
+ <CORR>  -32816948.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.673925579     </BIAS>
+ <RMSE>  0.723526657     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   5.31455660     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.585824549     </BIAS>
+ <RMSE>  0.700581133     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.07142858E-02 </MEAN_OBS>
+ <STDV_OBS>  0.280482352     </STDV_OBS>
+ <EXP>
+ <ID>        3803 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.109265104     </MEAN>
+ <STDV>  -31502810.0     </STDV>
+ <BIAS>  0.262915820     </BIAS>
+ <RMSE>  0.123454392     </RMSE>
+ <CORR>   3.26627053E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3803 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.265862554     </BIAS>
+ <RMSE>  0.113615453     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3803 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3329.61963     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.300719827     </BIAS>
+ <RMSE>  0.270141631     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.82142910E-02 </MEAN_OBS>
+ <STDV_OBS>  0.939329505     </STDV_OBS>
+ <EXP>
+ <ID>        3808 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.236406341     </MEAN>
+ <STDV>  -32816948.0     </STDV>
+ <BIAS>   1.33567584     </BIAS>
+ <RMSE>  -7.94710778E-03 </RMSE>
+ <CORR>  -33081910.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3808 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.42121112     </BIAS>
+ <RMSE>  -8.34451802E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3808 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2547.30444     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.02595580     </BIAS>
+ <RMSE>   5.21146730E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.92857157E-02 </MEAN_OBS>
+ <STDV_OBS>  0.198961958     </STDV_OBS>
+ <EXP>
+ <ID>        3809 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   8.55276436E-02 </MEAN>
+ <STDV>   3.27571452E+26 </STDV>
+ <BIAS>  0.278847337     </BIAS>
+ <RMSE>  0.257406473     </RMSE>
+ <CORR>   3.41077900E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3809 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.534036577     </BIAS>
+ <RMSE>   9.71812010E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3809 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3117.02271     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.223690286     </BIAS>
+ <RMSE>  0.460966676     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.78571388E-02 </MEAN_OBS>
+ <STDV_OBS>   2.24487996     </STDV_OBS>
+ <EXP>
+ <ID>        3823 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.522090435     </MEAN>
+ <STDV>   3.40934089E+26 </STDV>
+ <BIAS>  0.853972018     </BIAS>
+ <RMSE>   7.68214688E-02 </RMSE>
+ <CORR>   3.26640814E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3823 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.630799711     </BIAS>
+ <RMSE>  0.108459033     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3823 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2871.01807     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.26258397     </BIAS>
+ <RMSE>   1.91746037E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.88888866E-02 </MEAN_OBS>
+ <STDV_OBS>  0.587795496     </STDV_OBS>
+ <EXP>
+ <ID>        3827 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>  0.175731763     </MEAN>
+ <STDV>   3.41077900E+26 </STDV>
+ <BIAS>  0.542001188     </BIAS>
+ <RMSE>  0.107851215     </RMSE>
+ <CORR>  -32294300.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3827 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.663932443     </BIAS>
+ <RMSE>  0.107982844     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3827 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   2768.17456     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.559896827     </BIAS>
+ <RMSE>  0.291911930     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.267857164     </MEAN_OBS>
+ <STDV_OBS>   1.14144492     </STDV_OBS>
+ <EXP>
+ <ID>        3840 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.220729560     </MEAN>
+ <STDV>   3.26640814E+26 </STDV>
+ <BIAS>   1.25182283     </BIAS>
+ <RMSE>  0.498337924     </RMSE>
+ <CORR>  -31560764.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3840 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17357635     </BIAS>
+ <RMSE>  0.724975705     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3840 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2522.89160     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.761750877     </BIAS>
+ <RMSE>  0.812143087     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.23077017E-02 </MEAN_OBS>
+ <STDV_OBS>  0.556604028     </STDV_OBS>
+ <EXP>
+ <ID>        3853 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         104 </NUM>
+ <MEAN>  0.128509462     </MEAN>
+ <STDV>  -32294300.0     </STDV>
+ <BIAS>  0.387942582     </BIAS>
+ <RMSE>  0.481459975     </RMSE>
+ <CORR>   2.77615492E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3853 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         104 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.346854985     </BIAS>
+ <RMSE>  0.631134808     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3853 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         104 </NUM>
+ <MEAN>   2804.96265     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.328464359     </BIAS>
+ <RMSE>  0.805364370     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.21428597E-02 </MEAN_OBS>
+ <STDV_OBS>  0.176500767     </STDV_OBS>
+ <EXP>
+ <ID>        3857 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   4.89762872E-02 </MEAN>
+ <STDV>  -31502606.0     </STDV>
+ <BIAS>  0.523652613     </BIAS>
+ <RMSE>  0.200173512     </RMSE>
+ <CORR>  -32816888.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3857 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.603526711     </BIAS>
+ <RMSE>   1.47522800E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3857 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2661.72729     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.556763649     </BIAS>
+ <RMSE>   2.21412592E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.14285765E-03 </MEAN_OBS>
+ <STDV_OBS>   8.33692402E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3862 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2.90788934E-02 </MEAN>
+ <STDV>   2.77615492E+26 </STDV>
+ <BIAS>  0.248330057     </BIAS>
+ <RMSE>   9.13090780E-02 </RMSE>
+ <CORR>  -32873366.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3862 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.141561970     </BIAS>
+ <RMSE>  0.161920547     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3862 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2932.54590     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.79454526E-02 </BIAS>
+ <RMSE>  0.720658839     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.14285765E-03 </MEAN_OBS>
+ <STDV_OBS>   4.33653688     </STDV_OBS>
+ <EXP>
+ <ID>        3866 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.437940210     </MEAN>
+ <STDV>  -32816888.0     </STDV>
+ <BIAS>   1.67315638     </BIAS>
+ <RMSE>  -1.06459474E-02 </RMSE>
+ <CORR>  -32816948.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3866 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.855735481     </BIAS>
+ <RMSE>   1.48240084E-04 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3866 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2672.53174     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.31777906     </BIAS>
+ <RMSE>  -1.30796442E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.35714347E-03 </MEAN_OBS>
+ <STDV_OBS>  0.937943161     </STDV_OBS>
+ <EXP>
+ <ID>        3872 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.137334168     </MEAN>
+ <STDV>  -32873366.0     </STDV>
+ <BIAS>  0.335579276     </BIAS>
+ <RMSE>   4.96974401E-02 </RMSE>
+ <CORR>   3.27571452E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3872 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.14053619E-02 </BIAS>
+ <RMSE>  0.238392025     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3872 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   8.50675297     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.933458567     </BIAS>
+ <RMSE>   2.62059718E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.14285765E-03 </MEAN_OBS>
+ <STDV_OBS>   1.19478416     </STDV_OBS>
+ <EXP>
+ <ID>        3876 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.191830948     </MEAN>
+ <STDV>  -32816948.0     </STDV>
+ <BIAS>  0.213662446     </BIAS>
+ <RMSE>  0.187445685     </RMSE>
+ <CORR>   3.40934089E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3876 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.995158255     </BIAS>
+ <RMSE>   2.75563002E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3876 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2831.38477     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.18883753     </BIAS>
+ <RMSE>   3.36069204E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.67857183E-02 </MEAN_OBS>
+ <STDV_OBS>   4.77577932E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3882 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.32969450E-02 </MEAN>
+ <STDV>   3.27571452E+26 </STDV>
+ <BIAS>  0.148567170     </BIAS>
+ <RMSE>  0.135931924     </RMSE>
+ <CORR>   3.41078158E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3882 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.135669291     </BIAS>
+ <RMSE>  0.337293655     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3882 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2.32613540     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.135164842     </BIAS>
+ <RMSE>  0.320276320     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.62616727E-02 </MEAN_OBS>
+ <STDV_OBS>   1.75328314     </STDV_OBS>
+ <EXP>
+ <ID>        3894 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         107 </NUM>
+ <MEAN>  0.367926538     </MEAN>
+ <STDV>   3.40934089E+26 </STDV>
+ <BIAS>   1.60622048     </BIAS>
+ <RMSE>  -3.03430799E-02 </RMSE>
+ <CORR>   3.26640814E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3894 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         107 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.26526952     </BIAS>
+ <RMSE>   7.42884725E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3894 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         107 </NUM>
+ <MEAN>   3241.93994     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.78764164     </BIAS>
+ <RMSE>  -3.50021236E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.501785755     </MEAN_OBS>
+ <STDV_OBS>  0.480574816     </STDV_OBS>
+ <EXP>
+ <ID>        3895 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.153712064     </MEAN>
+ <STDV>   3.41078158E+26 </STDV>
+ <BIAS>   2.47674966     </BIAS>
+ <RMSE>   5.27497381E-02 </RMSE>
+ <CORR>  -32294300.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3895 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.42564058     </BIAS>
+ <RMSE>  0.124812759     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3895 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2957.50781     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.34750724     </BIAS>
+ <RMSE>  0.223644778     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.462500095     </MEAN_OBS>
+ <STDV_OBS>   2.63804078     </STDV_OBS>
+ <EXP>
+ <ID>        3901 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.747511268     </MEAN>
+ <STDV>  -31502746.0     </STDV>
+ <BIAS>   1.56304610     </BIAS>
+ <RMSE>  0.440619946     </RMSE>
+ <CORR>   2.77615492E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3901 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.67669392     </BIAS>
+ <RMSE>  0.434048206     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3901 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2.97205091     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.57075810     </BIAS>
+ <RMSE>  0.333532423     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.310714334     </MEAN_OBS>
+ <STDV_OBS>   2.80174851     </STDV_OBS>
+ <EXP>
+ <ID>        3904 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.995107770     </MEAN>
+ <STDV>  -31502606.0     </STDV>
+ <BIAS>   2.53751087     </BIAS>
+ <RMSE>  0.106025189     </RMSE>
+ <CORR>  -33081912.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3904 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.33670568     </BIAS>
+ <RMSE>  0.292536706     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3904 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2660.98584     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.77865219     </BIAS>
+ <RMSE>  0.176823229     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.525000036     </MEAN_OBS>
+ <STDV_OBS>   1.13615131     </STDV_OBS>
+ <EXP>
+ <ID>        3907 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.368927062     </MEAN>
+ <STDV>   2.77615492E+26 </STDV>
+ <BIAS>   1.63940954     </BIAS>
+ <RMSE>  0.938035429     </RMSE>
+ <CORR>  -32873366.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3907 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.39217091     </BIAS>
+ <RMSE>  0.665496051     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3907 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2397.30444     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.44096732     </BIAS>
+ <RMSE>  0.754130661     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.329629660     </MEAN_OBS>
+ <STDV_OBS>   4.54036617     </STDV_OBS>
+ <EXP>
+ <ID>        3911 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   1.07288420     </MEAN>
+ <STDV>  -33081912.0     </STDV>
+ <BIAS>   2.43139362     </BIAS>
+ <RMSE>  0.306782067     </RMSE>
+ <CORR>  -32816948.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3911 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.06269419     </BIAS>
+ <RMSE>  0.507524073     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3911 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   2496.03955     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.41195679     </BIAS>
+ <RMSE>  0.221614555     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.232142866     </MEAN_OBS>
+ <STDV_OBS>   1.59603786     </STDV_OBS>
+ <EXP>
+ <ID>        3915 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.434256971     </MEAN>
+ <STDV>  -32873366.0     </STDV>
+ <BIAS>  0.812225163     </BIAS>
+ <RMSE>  0.682174861     </RMSE>
+ <CORR>   3.27571452E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3915 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.11046338     </BIAS>
+ <RMSE>  0.177853972     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3915 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3333.26855     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.14593732     </BIAS>
+ <RMSE>  0.692723155     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.289285749     </MEAN_OBS>
+ <STDV_OBS>   1.98533809     </STDV_OBS>
+ <EXP>
+ <ID>        3916 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.587404132     </MEAN>
+ <STDV>  -32816948.0     </STDV>
+ <BIAS>   1.11098576     </BIAS>
+ <RMSE>  0.272170365     </RMSE>
+ <CORR>   3.40932945E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3916 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.14868617     </BIAS>
+ <RMSE>   8.61479566E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3916 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3039.22559     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.68262899     </BIAS>
+ <RMSE>  0.524781227     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.441071451     </MEAN_OBS>
+ <STDV_OBS>  0.431716114     </STDV_OBS>
+ <EXP>
+ <ID>        3917 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.150241613     </MEAN>
+ <STDV>   3.27571452E+26 </STDV>
+ <BIAS>   2.33006597     </BIAS>
+ <RMSE>  0.366872460     </RMSE>
+ <CORR>   3.41078158E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3917 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.44535446     </BIAS>
+ <RMSE>   5.69054740E-04 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3917 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3016.21777     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.46890545     </BIAS>
+ <RMSE>  -1.16296001E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.153571427     </MEAN_OBS>
+ <STDV_OBS>  0.753345549     </STDV_OBS>
+ <EXP>
+ <ID>        3923 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.315381855     </MEAN>
+ <STDV>   3.40932945E+26 </STDV>
+ <BIAS>  0.511749208     </BIAS>
+ <RMSE>  0.434658676     </RMSE>
+ <CORR>   3.26640814E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3923 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.981989264     </BIAS>
+ <RMSE>  0.157092959     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3923 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2657.35718     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.860303700     </BIAS>
+ <RMSE>  0.170351595     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.123214304     </MEAN_OBS>
+ <STDV_OBS>  0.338196665     </STDV_OBS>
+ <EXP>
+ <ID>        3951 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.111079969     </MEAN>
+ <STDV>   3.41078158E+26 </STDV>
+ <BIAS>  0.498184115     </BIAS>
+ <RMSE>  0.798912525     </RMSE>
+ <CORR>  -31502746.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3951 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.494684845     </BIAS>
+ <RMSE>  0.806977391     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3951 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2694.78613     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.441253960     </BIAS>
+ <RMSE>  0.818917811     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.32142851E-02 </MEAN_OBS>
+ <STDV_OBS>  0.209210649     </STDV_OBS>
+ <EXP>
+ <ID>        3952 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   8.42107609E-02 </MEAN>
+ <STDV>   2.89710285E+26 </STDV>
+ <BIAS>  0.362327486     </BIAS>
+ <RMSE>  0.810107291     </RMSE>
+ <CORR>  -31502606.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3952 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.366663367     </BIAS>
+ <RMSE>  0.650283635     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3952 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2899.92969     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.258461475     </BIAS>
+ <RMSE>  0.864597380     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.339285702     </MEAN_OBS>
+ <STDV_OBS>  0.552636385     </STDV_OBS>
+ <EXP>
+ <ID>        3953 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.180668131     </MEAN>
+ <STDV>  -32294300.0     </STDV>
+ <BIAS>   1.37209499     </BIAS>
+ <RMSE>  0.560977697     </RMSE>
+ <CORR>   3.41079339E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3953 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.40156710     </BIAS>
+ <RMSE>  0.501048028     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3953 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2938.05420     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.14458966     </BIAS>
+ <RMSE>  0.894087851     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.10714418E-02 </MEAN_OBS>
+ <STDV_OBS>  0.232514009     </STDV_OBS>
+ <EXP>
+ <ID>        3955 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.112439558     </MEAN>
+ <STDV>  -31502606.0     </STDV>
+ <BIAS>  0.412431896     </BIAS>
+ <RMSE>  0.630269587     </RMSE>
+ <CORR>   3.42099370E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3955 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   7.36802733E-42 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.416884303     </BIAS>
+ <RMSE>  0.524126947     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3955 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.388276577     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.313175499     </BIAS>
+ <RMSE>  0.800565660     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.30357224E-02 </MEAN_OBS>
+ <STDV_OBS>  0.297507793     </STDV_OBS>
+ <EXP>
+ <ID>        3956 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   9.40989777E-02 </MEAN>
+ <STDV>  -514814784.     </STDV>
+ <BIAS>  0.359452367     </BIAS>
+ <RMSE>  0.719937623     </RMSE>
+ <CORR>  -32867970.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3956 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.359973103     </BIAS>
+ <RMSE>  0.684961438     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3956 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3211.61816     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.333972424     </BIAS>
+ <RMSE>  0.613731444     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.21428590E-02 </MEAN_OBS>
+ <STDV_OBS>   2.48289442     </STDV_OBS>
+ <EXP>
+ <ID>        3961 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.521066129     </MEAN>
+ <STDV>  -32816888.0     </STDV>
+ <BIAS>   5.15696716     </BIAS>
+ <RMSE>  0.164976835     </RMSE>
+ <CORR>  -514033088.     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3961 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.66972244     </BIAS>
+ <RMSE>   3.23793516E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3961 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2737.53101     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.46350455     </BIAS>
+ <RMSE>   8.88563544E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.63636306E-02 </MEAN_OBS>
+ <STDV_OBS>   2.48082280     </STDV_OBS>
+ <EXP>
+ <ID>        3962 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>  0.590691984     </MEAN>
+ <STDV>   2.77615363E+26 </STDV>
+ <BIAS>  0.876669109     </BIAS>
+ <RMSE>  0.419626147     </RMSE>
+ <CORR>   3.42100514E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3962 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.484771252     </BIAS>
+ <RMSE>  0.462594688     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3962 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   2716.45215     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.36947489     </BIAS>
+ <RMSE>  0.378627330     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.222321436     </MEAN_OBS>
+ <STDV_OBS>   2.84656310     </STDV_OBS>
+ <EXP>
+ <ID>        3963 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.586470068     </MEAN>
+ <STDV>  -31486004.0     </STDV>
+ <BIAS>  0.869960666     </BIAS>
+ <RMSE>  0.335168749     </RMSE>
+ <CORR>  -32873366.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3963 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.33308685     </BIAS>
+ <RMSE>  0.164535403     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3963 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2997.10718     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.85892558     </BIAS>
+ <RMSE>  0.109873191     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.219642878     </MEAN_OBS>
+ <STDV_OBS>   4.31746149     </STDV_OBS>
+ <EXP>
+ <ID>        3966 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.604482174     </MEAN>
+ <STDV>  -33081912.0     </STDV>
+ <BIAS>  0.798714340     </BIAS>
+ <RMSE>  0.748055518     </RMSE>
+ <CORR>  -32809890.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3966 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   7.36802733E-42 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.77556801     </BIAS>
+ <RMSE>  0.925169230     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3966 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3.13700312E+26 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.64524508     </BIAS>
+ <RMSE>  0.747201383     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.253571451     </MEAN_OBS>
+ <STDV_OBS>   2.13213038     </STDV_OBS>
+ <EXP>
+ <ID>        3967 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.346876234     </MEAN>
+ <STDV>   3.40932687E+26 </STDV>
+ <BIAS>  0.489216119     </BIAS>
+ <RMSE>  0.984788656     </RMSE>
+ <CORR>   3.42099370E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3967 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.43244779     </BIAS>
+ <RMSE>  0.708492815     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3967 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2406.29102     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.41597033     </BIAS>
+ <RMSE>  0.178012922     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.87500026E-02 </MEAN_OBS>
+ <STDV_OBS>  0.100762270     </STDV_OBS>
+ <EXP>
+ <ID>        3969 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3.88968363E-02 </MEAN>
+ <STDV>   2.77615492E+26 </STDV>
+ <BIAS>  0.117244795     </BIAS>
+ <RMSE>  0.185226202     </RMSE>
+ <CORR>  -31560764.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3969 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.137143344     </BIAS>
+ <RMSE>  0.125020832     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3969 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3023.12158     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.134753481     </BIAS>
+ <RMSE>   6.61037713E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.274107158     </MEAN_OBS>
+ <STDV_OBS>  0.681653321     </STDV_OBS>
+ <EXP>
+ <ID>        3970 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.332127988     </MEAN>
+ <STDV>  -32816952.0     </STDV>
+ <BIAS>  0.833743870     </BIAS>
+ <RMSE>  0.371658832     </RMSE>
+ <CORR>  -31486388.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3970 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.31044698     </BIAS>
+ <RMSE>  0.145044371     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3970 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3200.99365     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.661375880     </BIAS>
+ <RMSE>  0.630578279     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.329464287     </MEAN_OBS>
+ <STDV_OBS>   3.94590616     </STDV_OBS>
+ <EXP>
+ <ID>        3971 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.652186275     </MEAN>
+ <STDV>  -31560764.0     </STDV>
+ <BIAS>   2.44610143     </BIAS>
+ <RMSE>  -3.15782614E-03 </RMSE>
+ <CORR>   3.41195479E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3971 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.22231209     </BIAS>
+ <RMSE>  0.969989777     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3971 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.08775842     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.85561824     </BIAS>
+ <RMSE>  0.718012691     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.342857152     </MEAN_OBS>
+ <STDV_OBS>   1.43170083     </STDV_OBS>
+ <EXP>
+ <ID>        3973 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.614326298     </MEAN>
+ <STDV>  -514033088.     </STDV>
+ <BIAS>   2.50548315     </BIAS>
+ <RMSE>  0.151073441     </RMSE>
+ <CORR>  -31502746.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3973 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.14351130     </BIAS>
+ <RMSE>  0.302485496     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3973 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2589.14526     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.54863226     </BIAS>
+ <RMSE>  0.250954300     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.210185200     </MEAN_OBS>
+ <STDV_OBS>  0.780706048     </STDV_OBS>
+ <EXP>
+ <ID>        3976 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>  0.287430018     </MEAN>
+ <STDV>  -535004032.     </STDV>
+ <BIAS>  0.415669858     </BIAS>
+ <RMSE>  0.888463199     </RMSE>
+ <CORR>  -32816822.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3976 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.432914108     </BIAS>
+ <RMSE>  0.874900162     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3976 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   2545.18115     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.399347186     </BIAS>
+ <RMSE>  0.886244476     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.246428564     </MEAN_OBS>
+ <STDV_OBS>   1.39832628     </STDV_OBS>
+ <EXP>
+ <ID>        3978 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.568817437     </MEAN>
+ <STDV>  -32294300.0     </STDV>
+ <BIAS>  0.782925963     </BIAS>
+ <RMSE>  0.633142829     </RMSE>
+ <CORR>   3.27509729E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3978 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.43711078     </BIAS>
+ <RMSE>  0.144492999     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3978 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2828.11938     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.992737353     </BIAS>
+ <RMSE>  0.701102734     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.411607087     </MEAN_OBS>
+ <STDV_OBS>   3.08833289     </STDV_OBS>
+ <EXP>
+ <ID>        3979 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.967501521     </MEAN>
+ <STDV>   3.40932945E+26 </STDV>
+ <BIAS>   4.63925886     </BIAS>
+ <RMSE>  -2.82104351E-02 </RMSE>
+ <CORR>  -31502684.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3979 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.92733312     </BIAS>
+ <RMSE>  0.198971868     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3979 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2832.25562     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.17914867     </BIAS>
+ <RMSE>   9.88784358E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.223214328     </MEAN_OBS>
+ <STDV_OBS>  0.940524757     </STDV_OBS>
+ <EXP>
+ <ID>        3980 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.361158818     </MEAN>
+ <STDV>   2.89710322E+26 </STDV>
+ <BIAS>  0.703735769     </BIAS>
+ <RMSE>  0.429171324     </RMSE>
+ <CORR>  -31502606.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3980 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.683610618     </BIAS>
+ <RMSE>  0.500930905     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3980 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2790.46167     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.793539822     </BIAS>
+ <RMSE>  0.561983883     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.205364004     </MEAN_OBS>
+ <STDV_OBS>   2.44077158     </STDV_OBS>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         522 </NUM>
+ <MEAN>  0.532418370     </MEAN>
+ <STDV>  -31502492.0     </STDV>
+ <BIAS>   3.37414837     </BIAS>
+ <RMSE>   4.59632352E-02 </RMSE>
+ <CORR>   3.41195479E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         522 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.49617910     </BIAS>
+ <RMSE>   3.87049057E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         522 </NUM>
+ <MEAN>   2569.56567     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.46960878     </BIAS>
+ <RMSE>   7.07301497E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.351127625     </MEAN_OBS>
+ <STDV_OBS>   1.98005641     </STDV_OBS>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         532 </NUM>
+ <MEAN>  0.474868715     </MEAN>
+ <STDV>  -31560764.0     </STDV>
+ <BIAS>   2.36526990     </BIAS>
+ <RMSE>  -3.37518640E-02 </RMSE>
+ <CORR>  -31486452.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         532 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.60807717     </BIAS>
+ <RMSE>  -3.34237218E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         532 </NUM>
+ <MEAN>   3053.89355     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.51554966     </BIAS>
+ <RMSE>  -3.36977690E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.886842191     </MEAN_OBS>
+ <STDV_OBS>   1.13159919     </STDV_OBS>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         532 </NUM>
+ <MEAN>  0.292324960     </MEAN>
+ <STDV>  -514030016.     </STDV>
+ <BIAS>   2.76091576     </BIAS>
+ <RMSE>  0.776945174     </RMSE>
+ <CORR>   3.27571489E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         532 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.81568432     </BIAS>
+ <RMSE>  0.744108200     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         532 </NUM>
+ <MEAN>   3093.43896     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.89435768     </BIAS>
+ <RMSE>  0.593161643     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.675285399     </MEAN_OBS>
+ <STDV_OBS>  0.362949282     </STDV_OBS>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         526 </NUM>
+ <MEAN>  0.151044369     </MEAN>
+ <STDV>  -32294300.0     </STDV>
+ <BIAS>   2.33993888     </BIAS>
+ <RMSE>  0.368112385     </RMSE>
+ <CORR>  -32809954.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         526 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.47282624     </BIAS>
+ <RMSE>   2.28428766E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         526 </NUM>
+ <MEAN>   3001.37793     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.47952080     </BIAS>
+ <RMSE>   3.34320404E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
